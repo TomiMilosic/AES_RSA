@@ -1,0 +1,10 @@
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\bin\Debug\tripledesanddes.exe.config
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\bin\Debug\tripledesanddes.exe
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\bin\Debug\tripledesanddes.pdb
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.Form1.resources
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.Properties.Resources.resources
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.exe
+C:\Users\Tomi\source\repos\tripledesanddes\tripledesanddes\obj\Debug\tripledesanddes.pdb
